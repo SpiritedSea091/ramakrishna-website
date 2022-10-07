@@ -1,0 +1,36 @@
+.navbar {
+  height: 100px;
+  color: blue;
+  background-color: lightgrey;
+  margin-bottom: 50px;
+}
+
+body{
+  padding: 20px;
+  background-color: beige;
+}
+.hero {
+
+}
+
+.footer {
+  height: 100px;
+  color: grey;
+}
+
+h2 {
+  margin: 100px 0;
+}
+
+.photo {
+  margin: 50px 0;
+  /* height: 300px;
+  width: 400px; */
+  object-fit: cover;
+}
+
+.photo-v {
+  /* height: 400px;
+  width: 300px; */
+  object-fit: cover;
+}
